@@ -1,0 +1,11 @@
+# 构建产物
+bin/
+obj/
+publish/
+
+# IDE / 本地个人设置
+.vs/
+*.user
+
+# brainstorming 工具的本地临时文件（含访问 token）
+.superpowers/
